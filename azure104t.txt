@@ -1,0 +1,37 @@
+# DOCS
+https://docs.microsoft.com/ko-kr/
+# Learning
+https://docs.microsoft.com/ko-kr/learn/certifications/
+https://docs.microsoft.com/ko-kr/certifications/azure-administrator/
+# Youtube
+https://www.youtube.com/user/microsoftlearning
+
+# 디지털교재
+https://docs.microsoft.com/ko-kr/learn/certifications/courses/az-104t00
+https://www.youtube.com/watch?v=UOdLxgYvcCA
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+https://github.com/MicrosoftLearning/AZ-104KO-MicrosoftAzureAdministrator
+
+# 계정 생성
+https://account.azure.com/organization
+
+# 실습머신 생성
+https://esi.learnondemand.net/
+9ACA65486ABB4891
+
+# Azure 실습 구독 활성화
+https://www.microsoftazurepass.com/
+
+# Azure 사이트
+https://aka.ms/azure
+
+Microsoft Learn - https://docs.microsoft.com/ko-kr/learn/browse/
+Azure 설명서 - https://docs.microsoft.com/ko-kr/azure/
+Azure 포럼 https://social.msdn.microsoft.com/Forums/ko-kr/home?category=windowsazureplatform
+Azure Tuesdays With Corey - https://channel9.msdn.com/Shows/Tuesdays-With-Corey/
+Azure Fridays - https://channel9.msdn.com/Shows/Azure-Friday
+Channel 9 - https://channel9.msdn.com/
+Microsoft Azure 블로그 - https://azure.microsoft.com/ko-kr/blog/
+Microsoft Learning 커뮤니티 블로그 - https://www.microsoft.com/ko-kr/learning/community-blog.aspx
+
