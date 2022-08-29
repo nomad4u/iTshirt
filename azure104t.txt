@@ -26,6 +26,11 @@ https://www.microsoftazurepass.com/
 # Azure 사이트
 https://aka.ms/azure
 
+# cloud shell
+touch test.html
+code .
+
+
 Microsoft Learn - https://docs.microsoft.com/ko-kr/learn/browse/
 Azure 설명서 - https://docs.microsoft.com/ko-kr/azure/
 Azure 포럼 https://social.msdn.microsoft.com/Forums/ko-kr/home?category=windowsazureplatform
@@ -34,4 +39,3 @@ Azure Fridays - https://channel9.msdn.com/Shows/Azure-Friday
 Channel 9 - https://channel9.msdn.com/
 Microsoft Azure 블로그 - https://azure.microsoft.com/ko-kr/blog/
 Microsoft Learning 커뮤니티 블로그 - https://www.microsoft.com/ko-kr/learning/community-blog.aspx
-
