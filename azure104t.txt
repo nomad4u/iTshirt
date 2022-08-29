@@ -39,3 +39,36 @@ Azure Fridays - https://channel9.msdn.com/Shows/Azure-Friday
 Channel 9 - https://channel9.msdn.com/
 Microsoft Azure 블로그 - https://azure.microsoft.com/ko-kr/blog/
 Microsoft Learning 커뮤니티 블로그 - https://www.microsoft.com/ko-kr/learning/community-blog.aspx
+
+[추가공유]
+https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/
+https://docs.microsoft.com/ko-kr/learn/modules/manage-device-identity-ad-join/
+https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/
+
+[추가공유]
+https://docs.microsoft.com/ko-kr/learn/modules/create-users-and-groups-in-azure-active-directory/
+https://docs.microsoft.com/ko-kr/learn/modules/manage-users-and-groups-in-aad/
+
+[추가공유]
+https://docs.microsoft.com/ko-kr/learn/modules/analyze-costs-create-budgets-azure-cost-management/
+https://docs.microsoft.com/learn/modules/plan-manage-azure-costs/
+https://docs.microsoft.com/ko-kr/learn/modules/control-and-organize-with-azure-resource-manager/
+
+
+[추가공유]
+https://docs.microsoft.com/learn/modules/intro-to-azure-policy/
+https://docs.microsoft.com/ko-kr/learn/modules/build-cloud-governance-strategy-azure/
+
+
+[추가공유]
+https://docs.microsoft.com/ko-kr/learn/modules/create-custom-azure-roles-with-rbac/
+https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/
+https://docs.microsoft.com/ko-kr/learn/modules/secure-azure-resources-with-rbac/
+
+
+Lab
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.md
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.md
+
+
